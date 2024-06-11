@@ -10,12 +10,8 @@ Criação dos heatmaps para os seguintes dados:
 Teste de independencia do Qui-quadrado:  
 > - RNA-Seq data  
 > - Ribo-Seq data  
+
 Testes estatisticos aos tRNA fragments (tRFs) - sncRNA-Seq data:  
 > - Kruskal test and dunn test  
 > - Mann-Whitney U test (Wilcoxon rank-sum test)  
 
-> - Item 1
->   - Subitem 1
->     - Sub-subitem 1
->   - Subitem 2
-> - Item 2
