@@ -1,6 +1,6 @@
 ## **Bioinformatics in Complex Biological Processes: Data Integration techniques to study Translation Regulation**  
 
-### Código utilizado na tese em R para produção de heatmaps e aplicação de testes estatísticos aos dados:
+### Código utilizado na tese em R para produção de heatmaps e aplicação de testes estatísticos:
 
 Criação dos heatmaps para os seguintes dados:  
 > RNA-Seq data - todos os codoes  
